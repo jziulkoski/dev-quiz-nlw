@@ -5,6 +5,6 @@ Dev Quiz promovido pela Rocketseat na NLW Expert 2024
 
 - HTML
 - CSS
--JavaScript
--Github
+- JavaScript
+- Github
 
