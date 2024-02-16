@@ -1,93 +1,93 @@
 const perguntas = [
     {
-        pergunta: "Quem é o protagonista da série 'Naruto'?",
+        pergunta: "O que significa a sigla HTML em JavaScript?",
         respostas: [
-            "Sasuke Uchiha",
-            "Naruto Uzumaki",
-            "Kakashi Hatake",
-        ],
-        correta: 1
-    },
-    {
-        pergunta: "Qual é o nome do sensei de Naruto na equipe 7?",
-        respostas: [
-            "Jiraiya",
-            "Orochimaru",
-            "Kakashi Hatake",
-        ],
-        correta: 2
-    },
-    {
-        pergunta: "Qual é o nome da vila onde Naruto nasceu?",
-        respostas: [
-            "Konohagakure",
-            "Sunagakure",
-            "Kirigakure",
+            "Hypertext Markup Language",
+            "High-Level Text Manipulation Language",
+            "Hyper Transfer Markup Language",
         ],
         correta: 0
     },
     {
-        pergunta: "Quem é considerado o rival de Naruto desde o início da série?",
+        pergunta: "Qual palavra-chave é usada para declarar uma variável em JavaScript?",
         respostas: [
-            "Sasuke Uchiha",
-            "Gaara",
-            "Neji Hyuga",
+            "variable",
+            "var",
+            "declare",
         ],
-        correta: 0
+        correta: 1
     },
     {
-        pergunta: "Qual é o nome da raposa de nove caudas que está selada dentro de Naruto?",
+        pergunta: "Qual é a função do método 'addEventListener' em JavaScript?",
         respostas: [
-            "Shukaku",
-            "Matatabi",
-            "Kurama",
+            "Adicionar elementos ao documento",
+            "Registrar um ouvinte de eventos em um elemento",
+            "Remover um evento do documento",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Como você acessa o valor de um elemento em um array em JavaScript?",
+        respostas: [
+            "array.valor",
+            "array[valor]",
+            "array.value",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Qual é a diferença entre '==' e '===' em JavaScript?",
+        respostas: [
+            "Nenhuma diferença",
+            "Comparação de valor apenas",
+            "Comparação de valor e tipo de dado",
         ],
         correta: 2
     },
     {
-        pergunta: "Qual é a técnica de assinatura de Naruto?",
+        pergunta: "O que é uma função de callback em JavaScript?",
         respostas: [
-            "Chidori",
-            "Rasengan",
-            "Sharingan",
+            "Uma função que chama outra função",
+            "Uma função passada como argumento para outra função",
+            "Uma função que retorna um valor",
         ],
         correta: 1
     },
     {
-        pergunta: "Quem é o pai de Naruto?",
+        pergunta: "O que é o conceito de 'hoisting' em JavaScript?",
         respostas: [
-            "Minato Namikaze",
-            "Kakashi Hatake",
-            "Hashirama Senju",
+            "Elevar um elemento na página",
+            "Mover uma função para o topo do escopo antes da execução",
+            "Adicionar um elemento ao final de um array",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Qual método é usado para converter uma string em um número em JavaScript?",
+        respostas: [
+            "parseInteger()",
+            "toNumber()",
+            "parseInt()",
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "Como você escreve um comentário de linha única em JavaScript?",
+        respostas: [
+            "// Este é um comentário",
+            "/* Este é um comentário */",
+            "' Este é um comentário",
         ],
         correta: 0
     },
     {
-        pergunta: "Qual é a especialidade de Sasuke Uchiha?",
+        pergunta: "O que é o operador ternário em JavaScript?",
         respostas: [
-            "Taijutsu",
-            "Ninjutsu",
-            "Genjutsu",
+            "Um operador que trabalha com três operandos",
+            "Um operador utilizado para concatenar strings",
+            "Um operador de comparação de três valores",
         ],
-        correta: 1
-    },
-    {
-        pergunta: "Quem é o líder da Akatsuki?",
-        respostas: [
-            "Deidara",
-            "Pain",
-            "Itachi Uchiha",
-        ],
-        correta: 1
-    },
-    {
-        pergunta: "Qual é a ambição de Itachi Uchiha?",
-        respostas: [
-            "Se tornar Hokage",
-            "Proteger sua vila",
-            "Alcançar a paz através do genocídio",
-        ],
-        correta: 2
+        correta: 0
     },
 ];
 
